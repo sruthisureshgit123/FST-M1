@@ -55,7 +55,7 @@
         <con:config xsi:type="con:DataSourceStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <con:dataSource type="File">
             <con:configuration>
-              <fileName>C:/Users/002FQI744/Desktop/FST/FST REST Activity4 File.txt</fileName>
+              <fileName>C:/Users/0045TS744/Desktop/FST/FST REST Activity4 File.txt</fileName>
               <separator>,</separator>
               <trim>true</trim>
               <charset>Cp1252</charset>
